@@ -1,0 +1,5 @@
+version: "3"
+
+services:
+  js:
+    image: haji4ref/node-web-app
